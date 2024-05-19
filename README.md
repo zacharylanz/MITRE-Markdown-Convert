@@ -10,20 +10,6 @@ Flexible Output: Easily change the output directory by modifying a single variab
 Prerequisites
 Python 3.6 or higher
 requests library
-Installation
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-Install Dependencies:
-
-bash
-Copy code
-pip install requests
-Usage
-To run the script, navigate to the script's directory and execute:
 
 bash
 Copy code
@@ -31,7 +17,9 @@ python fetch_intrusion_set_md.py
 The script will fetch the latest intrusion set data from the MITRE CTI repository, convert it to Markdown, and save it in the specified directory (my_notes by default). You can change the output directory by editing the output_directory variable in the script.
 
 Configuration
+
 Output Directory: Modify the output_directory variable at the top of the script to change where the Markdown files are saved.
+
 Contributing
 Contributions to the script are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -39,9 +27,8 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Contact
-For support or queries, please email me at your-email@example.com.
+For support or queries, please email me at 
 
 Acknowledgments
+
 Thanks to MITRE for providing the CTI repository which made this script possible.
-Thanks to all contributors who have helped improve this script.
-This README is now fully prepared to accompany your project. Make sure to create a LICENSE.md file in your repository containing the actual text of the MIT license, and update any remaining placeholders with the appropriate information.
