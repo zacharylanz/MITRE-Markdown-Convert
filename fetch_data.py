@@ -44,7 +44,7 @@ def sanitize_filename(filename):
 
 def save_markdown_files(markdown_files):
     """ Save each Markdown file in a specified directory """
-    directory = "obsidian_notes"
+    directory = "Intrusion-Sets-Markdown"
     os.makedirs(directory, exist_ok=True)
     for filename, content in markdown_files:
         path = os.path.join(directory, filename)
