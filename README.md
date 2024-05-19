@@ -1,9 +1,9 @@
 # Obsidian-ATTACK
 
-Overview
+Overview:
 This Python script automatically fetches intrusion set data from the MITRE CTI (Common Threats and Techniques Information) Enterprise Attack repository and converts it to Markdown format. The Markdown files are saved in a specified directory and can be used directly in applications like Obsidian for note-taking and data organization.
 
-Features
+Features:
 Data Fetching: Retrieves JSON data directly from MITRE's CTI GitHub repository.
 Markdown Conversion: Converts intrusion set information into Markdown files with tags formatted as #alias-aliasname.
 Flexible Output: Easily change the output directory by modifying a single variable.
