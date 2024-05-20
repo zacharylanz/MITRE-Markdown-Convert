@@ -1,0 +1,5 @@
+# Cutting Edge
+
+**ID**: campaign--4fdd2487-26c1-494e-8702-ec5abe9aa1d9
+**Description**: [Cutting Edge](https://attack.mitre.org/campaigns/C0029) was a campaign conducted by suspected China-nexus espionage actors, variously identified as UNC5221/UTA0178 and UNC5325, that began as early as December 2023 with the exploitation of zero-day vulnerabilities in Ivanti Connect Secure (previously Pulse Secure) VPN appliances. [Cutting Edge](https://attack.mitre.org/campaigns/C0029) targeted the U.S. defense industrial base and multiple sectors globally including  telecommunications, financial, aerospace, and technology. [Cutting Edge](https://attack.mitre.org/campaigns/C0029) featured the use of defense evasion and living-off-the-land (LoTL) techniques along with the deployment of web shells and other custom malware.(Citation: Mandiant Cutting Edge January 2024)(Citation: Volexity Ivanti Zero-Day Exploitation January 2024)(Citation: Volexity Ivanti Global Exploitation January 2024)(Citation: Mandiant Cutting Edge Part 2 January 2024)(Citation: Mandiant Cutting Edge Part 3 February 2024)
+
